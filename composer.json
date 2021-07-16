@@ -1,5 +1,6 @@
 {
     "name": "wp-wax/wp-wax-starter-plugin",
+    "description": "This is a WordpPress starter plugin based on MVC design pattern",
     "type": "project",
     "autoload": {
         "psr-4": {
@@ -15,5 +16,7 @@
             "email": "contact@sovware.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=5.0"
+    }
 }

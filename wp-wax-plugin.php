@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WP Wax Starter Plugin
  * Plugin URI: https://github.com/sovware/wp-wax-starter-plugin
- * Description: This is a Wordpress starter plugin based on MVC design pattern
+ * Description: This is a WordpPress starter plugin based on MVC design pattern
  * Version: 1.0.0
  * Author: wpWax
  * Author URI: https://wpwax.com
