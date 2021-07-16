@@ -1,0 +1,19 @@
+{
+    "name": "wp-wax/wp-wax-starter-plugin",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "WP_Wax_Plugin\\": "app/"
+        },
+        "files": [
+            "helpers/helper-functions.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "wpWax",
+            "email": "contact@sovware.com"
+        }
+    ],
+    "require": {}
+}

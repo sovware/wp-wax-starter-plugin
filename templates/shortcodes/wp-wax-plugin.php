@@ -1,0 +1,1 @@
+<h2>WP Wax Plugin</h2>
